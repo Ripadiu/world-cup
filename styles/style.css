@@ -26,11 +26,11 @@ body {
 .player {
     font-size: 65px;
     margin-bottom: 0;
-    animation-delay: 0.5s;
+    animation-delay: 1s;
 }
 
 .para {
-    animation-delay: 1s;
+    animation-delay: 2s;
 }
 
 .button-tag {
@@ -40,7 +40,7 @@ body {
     height: 55px;
     background-color: red;
     border-radius: 6px;
-    animation-delay: 1.5s;
+    animation-delay: 2.5s;
 
 
 }
@@ -63,7 +63,7 @@ body {
 }
 
 .top-player.anim {
-    animation-delay: 1.6s;
+    animation-delay: 1.5s;
 }
 
 /* first section animation add */
