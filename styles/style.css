@@ -26,6 +26,11 @@ body {
 .player {
     font-size: 65px;
     margin-bottom: 0;
+    animation-delay: 0.5s;
+}
+
+.para {
+    animation-delay: 1s;
 }
 
 .button-tag {
@@ -35,6 +40,7 @@ body {
     height: 55px;
     background-color: red;
     border-radius: 6px;
+    animation-delay: 1.5s;
 
 
 }
@@ -54,4 +60,22 @@ body {
     margin-top: 21px;
     margin-right: 20px;
 
+}
+
+.top-player.anim {
+    animation-delay: 1.6s;
+}
+
+/* first section animation add */
+.anim {
+    opacity: 0;
+    transform: translateY(30px);
+    animation: moveup 0.5s linear forwards;
+}
+
+@keyframes moveup {
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
 }
