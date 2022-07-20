@@ -174,3 +174,83 @@ body {
     margin-left: 40px;
     margin-right: 10px;
 }
+
+/* End of blog section */
+
+
+/* Footer section */
+.last {
+    width: 100%;
+    height: 250px;
+    margin-top: 200px;
+    background-color: black;
+}
+
+.lastly {
+
+    text-align: center;
+    color: aliceblue;
+}
+
+hr {
+    margin-left: 200px;
+    margin-right: 200px;
+    color: lightgray;
+
+}
+
+.lastest {
+    display: flex;
+}
+
+.contact,
+.term,
+.privacy,
+.settings,
+.app,
+.live {
+    color: white;
+}
+
+.contact {
+    margin-left: 340px;
+    margin-right: 45px;
+}
+
+.term {
+    margin-right: 45px;
+}
+
+.privacy {
+    margin-right: 45px;
+}
+
+.settings {
+    margin-right: 45px;
+}
+
+.app {
+    margin-right: 45px;
+}
+
+.run {
+    color: white;
+}
+
+.end {
+    color: aliceblue;
+
+}
+
+.fa-facebook-square {
+    margin-left: 650px;
+    margin-right: 40px;
+}
+
+.fa-twitter-square {
+    margin-right: 40px;
+}
+
+/* .fa-youtube {
+    margin-right: 50px;
+} */
